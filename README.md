@@ -24,15 +24,16 @@ If you cannot provide a valid website for your company, your PR will not be acce
 ---
 
 ## A - C
-
+- [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
+- [Code Kavya](https://codekavya.com/) | Nadipur, Pokhara | Web Development, Mobile Applications
 ## D - F
-
+- [DreamSYS IT Solution](https://www.dreamsys.com.np/) | Chipledhunga, Pokhara | Laravel, Vuejs
 ## G - I
 
 - [Goreto Software](http://goretosoftware.com/) | Mandala Complex, Lakeside, Pokhara | PHP, Laravel
-
+- [Green Edge Technologies](https://gets.com.np/) | Green Edge Building, Adarsh Chowk Bhakti Marga,Newroad-8, Pokhara | ??
 ## J - L
-
+- [JankariTech](https://www.jankaritech.com/) | Nayagaun, Pokhara | test automation
 ## M - O
 
 ## P - R
@@ -40,12 +41,13 @@ If you cannot provide a valid website for your company, your PR will not be acce
 ## S - U
 
 ## V - X
-
+- [Vigorous IT Solution](https://vigorousitsolution.com/) | Chhorepatan-17, Pokhara | PHP, WordPress, JavaScript
 - [Webpage Nepal Pvt. Ltd.](http://webpagenepal.com/) | BP Marg, New Road, Pokhara | PHP, WordPress
 
 ## Y - \#
 
 - [Yarsa Labs](https://yarsa.io/) | Upakar Marga 12, Pokhara | Java
+- [Ygen Software](https://ygen.io/) | 3rd Floor, ENT Pharmacy, Nayabazar, Pokhara | Python
 
 **Inspired from [tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal).**
 
